@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tiên Tửu</string>
+    
+    <!-- Màn hình Start -->
+    <string name="start_title">Tiên Tửu</string>
+    <string name="start_subtitle">Game uống rượu vui nhộn</string>
+    <string name="player_name_hint">Nhập tên người chơi</string>
+    <string name="add_player">Thêm người chơi</string>
+    <string name="start_game">Bắt đầu chơi</string>
+    <string name="min_players_warning">Cần ít nhất 2 người chơi</string>
+    
+    <!-- Màn hình Game -->
+    <string name="game_title">Lượt chơi</string>
+    <string name="current_player">Người chơi hiện tại: %1$s</string>
+    <string name="draw_card">Bốc bài</string>
+    <string name="card_task">Nhiệm vụ</string>
+    <string name="next_player">Người tiếp theo</string>
+    <string name="end_game">Kết thúc</string>
+    
+    <!-- Màn hình Kết thúc -->
+    <string name="game_over">Kết thúc game</string>
+    <string name="summary_title">Tổng kết lượt uống</string>
+    <string name="player_drinks">%1$s: %2$d lượt</string>
+    <string name="total_drinks">Tổng cộng: %1$d lượt</string>
+    <string name="play_again">Chơi lại</string>
+    <string name="back_to_start">Về màn hình chính</string>
+</resources>
