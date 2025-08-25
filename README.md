@@ -1,8 +1,3 @@
-# Tiên Tửu - Game Layout Design
-
-## Tổng quan
-Ứng dụng game "Tiên Tửu" với 3 màn hình chính được thiết kế bằng XML layout sử dụng ConstraintLayout và LinearLayout để đảm bảo responsive.
-
 **Tác giả**: tuan0tran  
 **Repository**: [https://github.com/mr0tran/ti-n-t-u.git](https://github.com/mr0tran/ti-n-t-u.git)
 
